@@ -31,3 +31,14 @@ I am a creative writer, writing studies scholar, and educator.  I am currently a
 ## Contact Me
 
 Reach out to me at shailen.mishra (at) gmail.com. You can also find some of my thoughts on teaching at [my blog](https://shailenmishra.com/category/#/teaching). 
+
+
+## From Blog
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
