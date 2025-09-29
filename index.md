@@ -26,3 +26,8 @@ I am a creative writer, writing studies scholar, and educator.  I am currently a
 - You measure writing largely from the lens of grammatical and idiomatic accuracy. While these aspects can be important depending on the context, writing is much more than such local concerns. 
 - You want me to catch and point out every error in your writing. Countless research shows that such a time-consuming endeavor has a very low ratio of benefit for a novice writer. More critically though, such a proverbial "bloodbath" can easily turn off a writer and dent their confidence for good. I tend to be selective with my feedback, and as I have said above, I keep in mind the "big picture stuff." Students find the learning process manageable that way and they make powerful progress in time.
 - You're looking for a quick fix. Writing is a _process_. Like every other discipline, writing takes years to get good at and find confidence in. And in the meantime, we need to take learning for what it needs to be: a thing to value, enjoy, and celebrate.  
+
+
+## Contact Me
+
+Reach out to me at shailen.mishra (at) gmail.com. You can also find some of my thoughts on teaching at [my blog](https://shailenmishra.com/category/#/teaching). 
