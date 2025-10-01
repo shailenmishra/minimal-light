@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a creative writer, writing studies scholar, and educator.  I am currently a visiting faculty at Swarthmore College. I have close to twenty years of teaching experience in a range of higher-ed institutions and in a range of writing courses/genres. Notably, I have taught at esteemed institutions such as North Carolina State University, Illinois State University, University of Delaware, and Swarthmore College. I also have experience tutoring writing to high-school and middle-school students. I am always curious to grow as a writer, researcher, and educator. And I attend to my students' learning needs with a great deal of empathy.
+I am a creative writer, writing studies scholar, and educator.  I am currently a visiting faculty at Swarthmore College. I have close to twenty years of teaching experience in a range of higher-ed institutions and in a range of writing courses/genres. Notably, I have taught at institutions such as North Carolina State University, Illinois State University, University of Delaware, and Swarthmore College. I also have experience tutoring writing to high-school and middle-school students. I am always curious to grow as a writer, researcher, and educator. And I attend to my students' learning needs with a great deal of empathy.
 
 
 ## My Strengths as a Teacher/Tutor
@@ -24,7 +24,7 @@ I am a creative writer, writing studies scholar, and educator.  I am currently a
 
 - Your priorities are grade-specific. I understand that grades are important but I prefer keeping a long-term and holistic focus in mind when teaching writing, which means letting go of grade concerns sometimes.
 - You measure writing largely from the lens of grammatical and idiomatic accuracy. While these aspects can be important depending on the context, writing is much more than such local concerns. 
-- You want me to catch and point out every error in your writing. Countless research shows that such a time-consuming endeavor has a very low ratio of benefit for a novice writer. More critically though, such a proverbial "bloodbath" can easily turn off a writer and dent their confidence for good. I tend to be selective with my feedback, and as I have said above, I keep in mind the "big picture stuff." Students find the learning process manageable that way and they make powerful progress in time.
+- You want me to catch and point out every error in your writing. Countless research shows that such a time-consuming endeavor has a very low ratio of benefit for a novice writer. More critically though, such a proverbial "bloodbath" can easily turn off a writer and dent their confidence for good. I tend to be selective with my feedback, and as I have said above, I keep in mind the "big picture stuff." That way students find the learning process manageable and they make powerful progress in time.
 - You're looking for a quick fix. Writing is a _process_. Like every other discipline, writing takes years to get good at and find confidence in. And in the meantime, we need to take learning for what it needs to be: a thing to value, enjoy, and celebrate.  
 
 
