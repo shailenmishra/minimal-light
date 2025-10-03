@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a creative writer, writing studies scholar, and educator.  I am currently a visiting faculty at Swarthmore College. I have close to twenty years of teaching experience in a range of higher-ed institutions and in a range of writing courses/genres. Notably, I have taught at institutions such as North Carolina State University, Illinois State University, University of Delaware, and Swarthmore College. I also have experience tutoring writing to high-school and middle-school students. I am always curious to grow as a writer, researcher, and educator. And I attend to my students' learning needs with a great deal of empathy.
+I am a creative writer, writing studies scholar, and educator.  I am currently a visiting faculty at Swarthmore College. I have close to twenty years of teaching experience in a range of higher-ed institutions and in a range of writing courses/genres. Notably, I have taught at institutions such as North Carolina State University, Illinois State University, University of Delaware, and Swarthmore College. I also have experience tutoring writing to high-school and middle-school students. I am always curious to grow as a writer, researcher, and educator. And I attend to my students' learning needs with a great deal of empathy. A detailed bio of me and a list of my publications can be found at the [about me](https://shailenmishra.com/about/) page of my personal website.   
 
 
 ## My Strengths as a Teacher/Tutor
